@@ -1,4 +1,4 @@
-package student.course.management.system;
+package student_course_management_system;
 import java.util.Scanner;
 import java.sql.ResultSet;
 public class StudentCourseManagementSystem 

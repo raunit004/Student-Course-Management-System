@@ -1,4 +1,4 @@
-package student.course.management.system;
+package student_course_management_system;
 import java.sql.Connection;
 import java.sql.Statement;
 import java.sql.DriverManager;
